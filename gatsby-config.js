@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `MLP FIM`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Rev`,
+      summary: `who lives on a sailboat somewhere in the atlantic.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `A blog about My Little Pony Friendship is Magic.`,
+    siteUrl: `https://www.mlpfriendshipismagic.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `kaicurry`,
     },
   },
   plugins: [
