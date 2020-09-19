@@ -8,6 +8,6 @@ Hey everyone! So I finishd Sea Swirl, and I will show you her. First, if you hav
 email me if so. So, ready for Sea Swirl? 
 
 
-![Purple Cartoon MLP Pony with pink,dark purple, and dark blue tail with wings](B196E74E-6DAB-4436-A1FC-FA93B84753B2.jpeg)
+![Purple Cartoon MLP Pony with pink,dark purple, and dark blue tail with wings](sea-swirl-drawing.jpeg)
 
 I used Adobe Draw for her and many others. (Its free.) I also use Pro-Create. (It costs $9.99.) 
